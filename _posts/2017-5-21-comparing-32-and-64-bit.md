@@ -16,7 +16,7 @@ you can compile it 32-bit using:
 
 `gcc -m32 program-32 program.c`
 
-# Compiling Assembly Programs with NASM
+## Compiling Assembly Programs with NASM
 Unlike C, assembly is not portable between 32-bit and 64-bit systems, so the source files to NASM will be different. NASM also must be told explicitly which object format to write. So for 32-bit output, use:
 
 `nasm -f elf32 program-32.asm`
