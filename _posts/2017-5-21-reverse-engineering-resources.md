@@ -4,3 +4,5 @@
 * [Crackmes.de Archive](https://tuts4you.com/download.php?view.3152)
 * [0x00sec](https://0x00sec.org/)
 * [Skidophrenia](https://skidophrenia.ctfd.io)
+
+* [ELF Specification](http://refspecs.linuxbase.org/elf/elf.pdf)
